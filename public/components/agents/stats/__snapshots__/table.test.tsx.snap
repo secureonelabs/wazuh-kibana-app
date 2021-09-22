@@ -387,7 +387,6 @@ exports[`AgentStatTable component Renders correctly to match the snapshot 1`] = 
               >
                 <button
                   className="euiButtonEmpty euiButtonEmpty--primary"
-                  disabled={false}
                   onClick={[Function]}
                   type="button"
                 >

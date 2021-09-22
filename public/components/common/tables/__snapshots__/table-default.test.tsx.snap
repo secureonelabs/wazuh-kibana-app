@@ -210,7 +210,6 @@ exports[`Table Default component renders correctly to match the snapshot 1`] = `
                                 >
                                   <button
                                     className="euiButtonEmpty euiButtonEmpty--primary euiButtonEmpty--xSmall euiButtonEmpty--flushRight"
-                                    disabled={false}
                                     onClick={[Function]}
                                     type="button"
                                   >
