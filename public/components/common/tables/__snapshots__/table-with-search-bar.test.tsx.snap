@@ -436,6 +436,7 @@ exports[`Table With Search Bar component renders correctly to match the snapshot
                                 >
                                   <button
                                     className="euiButtonEmpty euiButtonEmpty--primary euiButtonEmpty--xSmall euiButtonEmpty--flushRight"
+                                    disabled={false}
                                     onClick={[Function]}
                                     type="button"
                                   >
